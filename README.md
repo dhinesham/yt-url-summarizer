@@ -1,4 +1,3 @@
----
 
 # 📝 YT/URL Summarizer
 
@@ -74,5 +73,4 @@ Pull requests are welcome! For major changes, open an issue first to discuss wha
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
 
----
 
